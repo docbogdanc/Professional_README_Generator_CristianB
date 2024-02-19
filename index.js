@@ -61,7 +61,7 @@ function writeToFile(fileName, info) {
         if (err) {
             console.error(err);
         } else {
-            console.log('Answers saved to file.txt');
+            console.log('file was saved as README.md');
         }
     });
 
