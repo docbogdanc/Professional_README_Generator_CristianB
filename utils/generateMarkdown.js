@@ -39,12 +39,7 @@ function generateMarkdown(data) {
   For any questions please contact me at :  
   - gitHub : https://github.com/${data.gitHubUsername} 
   - email: ${data.email}  
-
-  
-
 `
-  
-
 }
 
 module.exports = generateMarkdown;
