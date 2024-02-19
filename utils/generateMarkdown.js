@@ -9,30 +9,36 @@ function generateMarkdown(data) {
 
   ## Table of Contents 
 
-  - [Instalation](#installation)
+  - [Instalation](#instalation)
 
   
   - [Usage](#usage)
 
   
-  - [Credits](#credits)
+  - [Contributing](#contributing)
 
 
-  - [License](license)
+  - [License](#license)
 
   ## Instalation
+  ${data.instalation}  
 
   ## Usage
-
-  ## Credits
+  ${data.usage}  
 
   ## License
+  ${data.license}  
 
   ## Contributing
+  ${data.contributing}  
 
   ## Tests
+  ${data.tests}  
 
   ## Questions
+  For any questions please contact me at :  
+  - gitHub : https://github.com/${data.gitHubUsername} 
+  - email: ${data.email}  
 
   
 

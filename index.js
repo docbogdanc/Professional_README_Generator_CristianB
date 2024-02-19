@@ -17,29 +17,39 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'Instalation',
+        name: 'instalation',
         message: 'Please give information regarding the Instalation : ',
     },
     {
         type: 'input',
-        name: 'Usage',
+        name: 'usage',
         message: 'Please give information about Usage : ',
     },
     {
         type: 'list',
-        name: 'License',
+        name: 'license',
         choices: ['none', 'MIT License', 'Apache License 2.0'],
         message: 'Please select the License : ',
     },
     {
         type: 'input',
-        name: 'Contributing',
+        name: 'contributing',
         message: 'Please give information about Contributing : ',
     },
     {
         type: 'input',
-        name: 'Tests',
+        name: 'tests',
         message: 'Please give information about Tests : ',
+    },
+    {
+        type: 'input',
+        name: 'gitHubUsername',
+        message: 'Please write your GitHub username : ',
+    },
+    {
+        type: 'input',
+        name: 'email',
+        message: 'Please write your email address : ',
     },
     
 
