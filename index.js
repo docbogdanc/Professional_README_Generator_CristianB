@@ -28,7 +28,7 @@ const questions = [
     {
         type: 'list',
         name: 'license',
-        choices: ['none', 'MIT-License', 'Apache-License-2.0'],
+        choices: ['none', 'MIT', 'Apache_2.0', 'PDDL'],
         message: 'Please select the License : ',
     },
     {
