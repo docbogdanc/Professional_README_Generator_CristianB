@@ -17,6 +17,8 @@ This is how the generated document looks :
 
 ![image of results](./assets/screenshot2.png)
 
+This is a video of its functionality:
+https://drive.google.com/file/d/1JLDPAV4q3t2JS5APbBY81IVO_PjYyUCG/view
 
 
 
