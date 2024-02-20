@@ -8,7 +8,7 @@ Professional README Generator - part of Bootcamp challenge
 
 This Project was created for bootcamp challenge.
 
-It tests the knowledge gained in NodeJS, JavaScript and JQuery during the last weeks, especially the implementation of NodeJS. It takes the user input in the terminal using nodejs and "inquirer" NPM, then it use the answers to create a file and generate the content in the format of a README.md file.
+It tests the knowledge gained in NodeJS, JavaScript and JQuery during the last weeks, especially the implementation of NodeJS. It takes the user input in the terminal using nodejs and "inquirer" NPM, then it use the answers to create a file and generate the content in the format of a README.md file (located in the ```readme_generate``` folder).
 
 This is how it looks in the terminal:
 ![image of results](./assets/screenshot1.png)  
