@@ -19,7 +19,8 @@ This is how it looks:
 
 ## Installation
 
-The repository is on the GitHub repositories public domain ...git and a demo videofile can be found at .../ 
+The repository is on the GitHub repositories public domain ...git and a demo videofile can be found at .../
+The repository can be cloned on local disk and then the program can be started by typing ```node index.js``` in terminal
 
 
 ## Usage
