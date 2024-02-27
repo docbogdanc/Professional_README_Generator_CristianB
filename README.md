@@ -24,7 +24,7 @@ https://drive.google.com/file/d/1JLDPAV4q3t2JS5APbBY81IVO_PjYyUCG/view
 
 ## Installation
 
-The repository is on the GitHub repositories public domain ...git and a demo videofile can be found at .../
+The repository is on the GitHub repositories public domain  https://github.com/docbogdanc/Professional_README_Generator_CristianB.git  and a demo videofile can be found at https://drive.google.com/file/d/1JLDPAV4q3t2JS5APbBY81IVO_PjYyUCG/view
 The repository can be cloned on local disk and then the program can be started by typing ```node index.js``` in terminal
 
 
